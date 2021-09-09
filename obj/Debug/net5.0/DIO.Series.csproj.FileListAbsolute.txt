@@ -1,0 +1,16 @@
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/lais/RiderProjects/Solution1/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/lais/RiderProjects/Solution1/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
